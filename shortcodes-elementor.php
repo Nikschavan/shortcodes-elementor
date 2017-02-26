@@ -7,7 +7,7 @@
  * Author URI:      https://www.nnikhilchavan.com
  * Text Domain:     shortcodes-elementor
  * Domain Path:     /languages
- * Version:         0.1.0
+ * Version:         1.0.0
  *
  * @package         Shortcodes_Elementor
  */
@@ -17,7 +17,7 @@
  */
 require_once 'class-shortcode-elementor.php';
 
-define( 'SE_VER', '0.1.0' );
+define( 'SE_VER', '1.0.0' );
 define( 'SE_DIR', plugin_dir_path( __FILE__ ) );
 define( 'SE_URL', plugins_url( '/', __FILE__ ) );
 define( 'SE_PATH', plugin_basename( __FILE__ ) );
