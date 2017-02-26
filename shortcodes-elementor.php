@@ -1,10 +1,10 @@
 <?php
 /**
  * Plugin Name:     Shortcodes Elementor
- * Plugin URI:      Add Elemenntor layouts using shortcodes.
- * Description:     PLUGIN DESCRIPTION HERE
- * Author:          YOUR NAME HERE
- * Author URI:      YOUR SITE HERE
+ * Plugin URI:      https://www.brainstormforce.com
+ * Description:     Add Elemenntor layouts using shortcodes.
+ * Author:          Nikhil Chavan
+ * Author URI:      https://www.nnikhilchavan.com
  * Text Domain:     shortcodes-elementor
  * Domain Path:     /languages
  * Version:         0.1.0
